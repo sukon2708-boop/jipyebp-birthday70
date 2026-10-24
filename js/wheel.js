@@ -16,12 +16,12 @@ modalBackdrop.addEventListener("click", (e) => {
 
 // ✅ แก้ของรางวัลได้ตรงนี้
 const items = [
-  "ตามใจเธอทั้งวัน ",
-  "ดูหนังด้วยกัน ",
-  "เลี้ยงขนม",
-  "เลี้ยงชาบู ",
-  "ซื้อของที่เธออยากได้",
-  "พาไปกินหมูกระทะ",
+  "any wishes",
+  "sushi",
+  "shabu",
+  "Bell",
+  "mookata",
+  "travel",
 ];
 
 let angle = 0;
